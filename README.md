@@ -7,7 +7,7 @@ I am a **full stack web developer** born in Italy in 1990, with a passion for th
 My tech stack includes:
 
 - Frontend: HTML5, CSS3, JavaScript (ES6+), React,
-- Backend: PHP, Node.js, Express, and Laravel
+- Backend: PHP
 - Database: MySQL
 - Version Control: Git, GitHub
 - DevOps: Docker
@@ -25,7 +25,7 @@ Sono un **full stack web developer** nato in Italia nel 1990, con una passione p
 Il mio stack tecnologico include:
 
 - Frontend: HTML5, CSS3, JavaScript (ES6+), React
-- Backend: PHP, Node.js, Express, e Laravel
+- Backend: PHP
 - Database: MySQL
   \*Version Control: Git, GitHub
 - DevOps: Docker
