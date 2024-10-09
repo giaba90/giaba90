@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a new blog engine platform using React and WordPress Headless**
 - 🌱 I'm currently learning: **📚 Exploring GraphQL**
 - 💬 Ask me about: **💡 JavaScript, React, HTML5, and RESTful APIs**
-- 📂 Portfolio: **<a href="gianlucabarranca.it" target="_blank">gianlucabarranca.it</a>**
+- 📂 Portfolio: **<a href="https://gianlucabarranca.it" target="_blank">gianlucabarranca.it</a>**
 
  **<h3 align="left">Skills</h3>**
 
