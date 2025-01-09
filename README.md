@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new blog engine platform using React **
+- 💼 I'm currently working on: **💻 Developing a new blog engine platform using React**
 - 🌱 I'm currently learning: **📚 Exploring Nextjs**
 - 💬 Ask me about: **💡 JavaScript, React, HTML5, and RESTful APIs**
 - 📂 Portfolio: **<a href="https://gianlucabarranca.it" target="_blank">gianlucabarranca.it</a>**
