@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/gianluca-barranca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/barrancagianluca" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/giaba90" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I am a full stack web developer born in Italy in 1990, with a passion for the web since 2008. I have gained extensive experience collaborating with various online communication agencies and freelance professionals in the marketing sector, specializing in the development of custom themes and plugins for WordPress. In March 2023, I joined Capgemini Italy, contributing to various enterprise projects based on Drupal.</h3>**
+ **<h3 align="left">🚀 I am a full stack web developer born in Italy in 1990, with a passion for the web since 2008. I have gained extensive experience collaborating with various online communication agencies and freelance professionals in the marketing sector, specializing in the development of custom themes and plugins for WordPress. From March 2023 to September 2024 I worked in Capgemini Italia; since May 2025 I have been working as an external developer in Minsait contributing to various enterprise projects based on Drupal.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
